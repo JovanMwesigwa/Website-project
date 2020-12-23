@@ -1,0 +1,33 @@
+*{
+    margin: 0;  
+    padding: 0;
+}
+
+
+.nav-wrapper{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 18px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.left-side {
+    display: flex;
+}
+
+a{
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+    padding-left: 20px;
+
+}
+
+.right-side{
+    display: flex;
+}
